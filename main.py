@@ -3,6 +3,14 @@ from kivy.uix.screenmanager import Screen
 from kivymd.app import MDApp
 from kivymd.uix.button import MDRectangleFlatButton
 
+print("Oke?")
+print("Oke?")
+
+print("Oke?")
+
+print("Oke?")
+
+
 
 class MainApp(MDApp):
     def build(self):
